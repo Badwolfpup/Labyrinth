@@ -1,6 +1,6 @@
 # Labyrinth
 
-A maze navigation game built with C# and WPF.
+A maze navigation game built with C# and WPF that uses recursion to build a maze with # accessible rooms.
 
 ## Technologies
 
